@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📰 News Aggregator
+# 📰 AI News Bot
 
 **A self-hosted AI-powered news pipeline that fetches RSS feeds, summarizes articles with an LLM, and delivers them straight to your Telegram.**
 
